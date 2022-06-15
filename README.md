@@ -4,9 +4,9 @@
 <p>Files included in this project:-</p>
 <ol>
   <li>README.md</li>
-  <li>clock.html</li>
-  <li>clock.css</li>
-  <li>clock.js</li>
+  <li>index.html</li>
+  <li>style.css</li>
+  <li>script.js</li>
 </ol>
 <h3>#About</h3>
 
